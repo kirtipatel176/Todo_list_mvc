@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h9TcFBfoA5E=",
+  "success": false,
+  "projectFilePath": "D:\\ToDoList-MVC-.NET-master\\ToDo\\ToDo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.Targets' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.targets/index.json'.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    }
+  ]
+}
